@@ -118,7 +118,7 @@ public class CordovaGCMBroadcastReceiver extends WakefulBroadcastReceiver {
 
 		String message = extras.getString("message");
 		if (message != null) {
-			.setStyle(new NotificationCompat.BigTextStyle()
+			mBuilder.setStyle(new NotificationCompat.BigTextStyle()
 			.bigText(message));
 			mBuilder.setContentText(message);
 		} else {
