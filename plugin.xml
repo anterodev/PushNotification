@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
 				xmlns:android="http://schemas.android.com/apk/res/android"
-				id="com.phonegap.plugins.PushPlugin"
-				version="2.5.7">
+				id="com.anterodev.phonegap.plugins.PushPlugin"
+				version="2.5.8">
 
 	<name>PushPlugin</name>
 
-	<author>Telerik (originally created by Bob Easterday)</author>
+	<author>Telerik (originally created by Bob Easterday altered by anterodev)</author>
 
-	<url>https://github.com/Telerik-Verified-Plugins/PushNotification</url>
+	<urlhttps://github.com/anterodev/PushNotification</url>
 
 	<description>
 		This plugin allows your application to receive push notifications on Android, iOS, WP8 and Windows8 devices.
